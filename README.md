@@ -5,12 +5,6 @@ This project focuses on enhancing and upscaling low-resolution images using deep
 
 ---
 
-## 📂 Dataset
-- Custom low-resolution and high-resolution image pairs, stored in local folders for training and testing.
-- No specific dataset link provided; assumes locally sourced or custom images.
-
----
-
 ## 🔍 Project Workflow
 
 ### **1. Image Preprocessing**
