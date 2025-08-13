@@ -75,15 +75,16 @@ for name, scale, path in models:
 | ESPCN    | 52.70 | 0.9996 |
 | FSRCNN   | 48.75 | 0.9984 |
 
-- **Best Model**: EDSR (PSNR: 62.73, SSIM: 0.9999)
-  <br>
-- **ESRGAN Result**:
-  ![ESRGAN Result](esrgan_tf2_model.png)
-  <br>
-- **EDSR Result**:
-  ![EDSR Result](EDSR_x4_model.png)
-  <br>
+- **Best Model**: EDSR (PSNR: 62.73, SSIM: 0.9999)  
+
+- **ESRGAN Result**:  
+  ![ESRGAN Result](esrgan_tf2_model.png)  
+
+- **EDSR Result**:  
+  ![EDSR Result](EDSR_x4_model.png)  
+
 - **Comparison**: Results for all models are saved in `output_results/`.
+
 
 ---
 
